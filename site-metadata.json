@@ -1,0 +1,28 @@
+{
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Jeff",
+        "tagline": "Header Tagline",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--tBwLlefm--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/318420/3bfd2d99-430c-4049-8dd5-e2adc961e1e0.png",
+        "bg": "dark",
+        "has_nav": true,
+        "has_social": true
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "text": "Made with Stackbit",
+                "url": "https://www.stackbit.com",
+                "new_window": true
+            },
+            {
+                "text": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
